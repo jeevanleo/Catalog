@@ -89,5 +89,6 @@ int main() {
     return 0;
 }
 
-//output:- for test case 1: 3 
-//test case 2: 79836264049764
+// OUTPUT:- 
+// test case 1: 3 
+// test case 2: 79836264049764
